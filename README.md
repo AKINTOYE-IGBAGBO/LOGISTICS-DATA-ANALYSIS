@@ -29,16 +29,27 @@ This project explored customers behaviors, profitability of each customers loads
 
 ## 2. Objectives
 
-* Identify top 10 customers by revenue.
+* Identify top customers by revenue.
   
 * Identify which trips are non-profitable.
   
-* Determine which route are most profitable.
+* Determine if the route are profitable.
 
 * Evaluate which asset and drivers contributes the most to maintenance cost.
 
-* Checking for fuel cost trend anf factors contributing to fuel changes.
+* Checking for fuel cost trend and factors contributing to fuel changes.
 
 * Evaluate the effect of  waiting period by facilities , drivers or incidents on deliverables.
 
 * Identify the factors contributing to incident rates.
+
+
+---
+
+## 3. Project Scope & Tools
+
+###  Scope
+
+*   **Facilities** ; The company has 50 operating facilities of 4 different types located in 21 cities.
+*   **Customers** ; It serviced 200 customers who are either dedicated, spot or on contract from 2022 to 2024.
+*   **Trucks and Trailers** ; 
