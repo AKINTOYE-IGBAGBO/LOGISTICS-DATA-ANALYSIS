@@ -18,3 +18,27 @@
 13. [Deliverables](#13-deliverables)
 14. [Author](#14-author)
 
+
+---
+## 1. Project Overview
+
+A detailed analysis of a large-scale logistics operation company's  revenue , profitability, safety management and operational cost efficiency across 3 years.
+This project explored customers behaviors, profitability of each customers loads, route optimization, asset utilization rate and factors contributing to incident rate. It also covers whether pricing of each delivery is profitable , fuel trends and which drivers are productive and who contribute major risk to the operations.
+
+---
+
+## 2. Objectives
+
+* Identify top 10 customers by revenue.
+  
+* Identify which trips are non-profitable.
+  
+* Determine which route are most profitable.
+
+* Evaluate which asset and drivers contributes the most to maintenance cost.
+
+* Checking for fuel cost trend anf factors contributing to fuel changes.
+
+* Evaluate the effect of  waiting period by facilities , drivers or incidents on deliverables.
+
+* Identify the factors contributing to incident rates.
